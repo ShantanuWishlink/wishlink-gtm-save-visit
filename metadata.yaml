@@ -1,5 +1,5 @@
 homepage: "https://home.wishlink.com"
 documentation: "https://home.wishlink.com"
 versions:
-  - sha: 1a0bdbf080c8a4f8ff3a80420f87201306db619d
+  - sha: 97e6b6cce956d5f4004c6d0dcb6f89f0afeaa8fe
     changeNotes: Initial release.
